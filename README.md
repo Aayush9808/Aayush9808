@@ -1,19 +1,12 @@
-<!--
-  Your GitHub profile README. To activate it on your profile:
-  1) Create a repository named exactly like your GitHub username (likely: Aayush9808)
-  2) Put this README.md at the repo root and make the repo public
-  3) Edit the placeholders below as needed
--->
-
 <div align="center">
 
 # Aayush Kumar Shrivastav
 
 AI • Software Engineering • DSA • Security
 
-[![GitHub followers](https://img.shields.io/github/followers/Aayush9808?label=Follow&style=flat&color=0ea5e9)](https://github.com/Aayush9808)
-[![Profile views](https://komarev.com/ghpvc/?username=Aayush9808&style=flat&color=0ea5e9)](https://github.com/Aayush9808)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayush2209-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush2209/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f89f1b?logo=leetcode&logoColor=white)](https://leetcode.com/u/aayushShrivastav/)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-ashrivastav2209%40gmail.com-6b7280?logo=gmail&logoColor=white)](mailto:ashrivastav2209@gmail.com)
 
 </div>
@@ -50,7 +43,7 @@ What I’m focusing on right now:
 - smart-timetable-scheduler — Full‑stack MERN scheduling app. [Repo](https://github.com/Aayush9808/smart-timetable-scheduler)
 - Weather-Forecast-App — Lightweight JS app with APIs. [Repo](https://github.com/Aayush9808/Weather-Forecast-App)
 
-Tip: Pin these on your profile for quick visibility.
+
 
 ## Stats
 
@@ -60,17 +53,11 @@ Tip: Pin these on your profile for quick visibility.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush9808&layout=compact)
 
-<!-- Optional: contribution streak; remove if you prefer a cleaner look -->
-<!-- ![Streak](https://streak-stats.demolab.com/?user=Aayush9808&theme=default) -->
+
 
 </div>
 
 ## Contact
+- LinkedIn: https://www.linkedin.com/in/aayush2209/
+- Resume: https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing
 - Email: ashrivastav2209@gmail.com
-- LinkedIn: add your link here
-- Portfolio/Resume: add your link here
-
----
-
-### How this repo works
-GitHub shows this README on your profile when the repository name exactly matches your username. Keep it concise, results‑oriented, and up to date. Consider adding a short “Now” section for current focus, and link to writeups or notebooks that show your thinking.
