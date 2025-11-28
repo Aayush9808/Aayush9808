@@ -1,0 +1,24 @@
+name: python-ci
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          if exist requirements.txt ( pip install -r requirements.txt ) else ( echo No requirements.txt )
+      - name: Lint and test
+        run: |
+          if exist ruff.toml ( pip install ruff && ruff . ) else ( echo No ruff config )
+          if exist pyproject.toml ( pip install pytest && pytest -q ) else ( echo No tests )
