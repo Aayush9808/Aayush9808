@@ -18,12 +18,6 @@ What I’m focusing on right now:
 - TypeScript + Node.js backends with testing and CI
 - Strong foundations in DSA and systems thinking
 
-## Highlights
-- Built an automated coding‑platform analyzer aggregating stats across platforms
-- Implemented a real‑time surveillance pipeline with YOLO + DeepSORT + LSTM
-- Shipped a MERN timetable scheduler and a JS weather app
-- Consistent contributions and code reviews across personal projects
-
 ## Skills
 
 **Languages:** C/C++, Python, JavaScript/TypeScript, SQL
@@ -38,10 +32,22 @@ What I’m focusing on right now:
 
 ## Featured Projects
 
-- Coding-Platform-Analyzer — Automated coding profile analytics with multi-source ingestion and deduping. [Repo](https://github.com/Aayush9808/Coding-Platform-Analyzer)
-- SentinelAI — Real-time video surveillance with YOLO + DeepSORT + LSTM. [Repo](https://github.com/Aayush9808/SentinelAI)
-- smart-timetable-scheduler — Full‑stack MERN scheduling app. [Repo](https://github.com/Aayush9808/smart-timetable-scheduler)
-- Weather-Forecast-App — Lightweight JS app with APIs. [Repo](https://github.com/Aayush9808/Weather-Forecast-App)
+### 🏆 Coding Platform Analyzer
+**Automated competitive programming profile aggregator** combining stats from LeetCode, Codeforces, and CodeChef with AI-powered insights and duplicate detection.
+
+**Tech:** Python, Flask, Next.js, TypeScript, Web Scraping, AI/ML  
+**Features:** Multi-source ingestion • Duplicate detection • Multi-format exports • Real-time analytics
+
+[View Repository →](https://github.com/Aayush9808/Coding-Platform-Analyzer)
+
+---
+
+### Other Projects
+
+- **SentinelAI** — Real-time video surveillance with YOLO + DeepSORT + LSTM for threat detection and anomaly detection. [Repo](https://github.com/Aayush9808/SentinelAI)
+- **DSA Assessment GLBITM** — DSA Assessment Solutions | BTech 3rd Year @ G.L. Bajaj Institute of Technology & Management. [Repo](https://github.com/Aayush9808/DSA-Assessment-GLBITM)
+- **smart-timetable-scheduler** — Full‑stack MERN timetable scheduling application with conflict resolution. [Repo](https://github.com/Aayush9808/smart-timetable-scheduler)
+- **Weather-Forecast-App** — Lightweight JavaScript weather app with HTML/CSS/JS and APIs. [Repo](https://github.com/Aayush9808/Weather-Forecast-App)
 
 
 
