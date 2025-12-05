@@ -32,21 +32,11 @@ Hi! I'm Aayush — a B.Tech CSE student at G.L. Bajaj Institute of Technology. I
 
 ## Featured Projects
 
-- **[Coding Platform Analyzer](https://github.com/Aayush9808/Coding-Platform-Analyzer)** — Automated competitive programming profile aggregator combining stats from LeetCode, Codeforces, and CodeChef with AI-powered insights and duplicate detection. Built with Python, Flask, Next.js, TypeScript.
+- **[Coding Platform Analyzer](https://github.com/Aayush9808/Coding-Platform-Analyzer)** — Automated competitive programming profile aggregator combining stats from LeetCode, Codeforces, and CodeChef with AI-powered insights and duplicate detection. Built with Python, Flask, Next.js, TypeScript. [Live Demo](https://coding-platform-analyzer.vercel.app)
 
 - **[SentinelAI](https://github.com/Aayush9808/SentinelAI)** — Real-time video surveillance with YOLO + DeepSORT + LSTM for threat detection and anomaly detection. Features real-time object detection and threat analysis.
 
 - **[Smart Timetable Scheduler](https://github.com/Aayush9808/smart-timetable-scheduler)** — Full-stack MERN timetable scheduling application with conflict resolution, cutting manual planning by 80%+ for 25+ faculty.
-
-## Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush9808&show_icons=true&theme=default&hide_title=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush9808&layout=compact)
-
-</div>
 
 ## Contact
 
