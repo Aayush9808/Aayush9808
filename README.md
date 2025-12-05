@@ -32,54 +32,24 @@ Hi! I'm Aayush — a B.Tech CSE student at G.L. Bajaj Institute of Technology. I
 
 ## Featured Projects
 
-### 🏆 [Coding Platform Analyzer](https://github.com/Aayush9808/Coding-Platform-Analyzer)
-**Automated competitive programming profile aggregator** combining stats from LeetCode, Codeforces, and CodeChef with AI-powered insights and duplicate detection.
+- **[Coding Platform Analyzer](https://github.com/Aayush9808/Coding-Platform-Analyzer)** — Automated competitive programming profile aggregator combining stats from LeetCode, Codeforces, and CodeChef with AI-powered insights and duplicate detection. Built with Python, Flask, Next.js, TypeScript.
 
-**Tech:** Python, Flask, Next.js, TypeScript, Web Scraping, AI/ML  
-**Features:** Multi-source ingestion • Duplicate detection • Multi-format exports • Real-time analytics
+- **[SentinelAI](https://github.com/Aayush9808/SentinelAI)** — Real-time video surveillance with YOLO + DeepSORT + LSTM for threat detection and anomaly detection. Features real-time object detection and threat analysis.
 
-🌐 **[Live Demo](https://coding-platform-analyzer.vercel.app)**
+- **[Smart Timetable Scheduler](https://github.com/Aayush9808/smart-timetable-scheduler)** — Full-stack MERN timetable scheduling application with conflict resolution, cutting manual planning by 80%+ for 25+ faculty.
 
----
+## Stats
 
-### 🎯 [SentinelAI](https://github.com/Aayush9808/SentinelAI)
-Real-time video surveillance with YOLO + DeepSORT + LSTM for threat detection and anomaly detection.
+<div align="center">
 
-**Tech:** Python, YOLO, DeepSORT, LSTM, OpenCV  
-**Features:** Real-time object detection • Threat analysis • Anomaly detection
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush9808&show_icons=true&theme=default&hide_title=true&rank_icon=github)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush9808&layout=compact)
 
-### 📅 [Smart Timetable Scheduler](https://github.com/Aayush9808/smart-timetable-scheduler)
-Full-stack MERN timetable scheduling application with conflict resolution, cutting manual planning by 80%+ for 25+ faculty.
-
-**Tech:** MongoDB, Express, React, Node.js, Constraint Logic  
-**Features:** Automated scheduling • Conflict resolution • Role-based access • PDF/CSV export
-
----
-
-### 🌦️ [Weather Forecast App](https://github.com/Aayush9808/Weather-Forecast-App)
-Lightweight JavaScript weather app with HTML/CSS/JS and APIs.
-
-**Tech:** HTML, CSS, JavaScript, OpenWeatherMap API  
-**Features:** Real-time weather • 5-day forecast • Geolocation
-
----
-
-### 📚 [DSA Assessment GLBITM](https://github.com/Aayush9808/DSA-Assessment-GLBITM)
-DSA Assessment Solutions for BTech 3rd Year at G.L. Bajaj Institute of Technology & Management.
-
-**Tech:** Data Structures & Algorithms, Problem Solving  
-**Features:** Comprehensive DSA solutions • Interview preparation
-
----
+</div>
 
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/aayush2209/
 - **Resume:** https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing
 - **Email:** ashrivastav2209@gmail.com
-
----
-
-⭐ **Open to collaborations and opportunities!**
