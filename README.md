@@ -1,8 +1,38 @@
+<div align="center">
+
 # 👋 Hi, I'm Aayush Shrivastav
 
-## 🚀 Featured Projects
+AI • Software Engineering • DSA • Security
 
-### 📊 [Coding Platform Analyzer](https://github.com/Aayush9808/Coding-Platform-Analyzer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayush2209-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush2209/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f89f1b?logo=leetcode&logoColor=white)](https://leetcode.com/u/aayushShrivastav/)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-ashrivastav2209%40gmail.com-6b7280?logo=gmail&logoColor=white)](mailto:ashrivastav2209@gmail.com)
+
+</div>
+
+Hi! I'm Aayush — a B.Tech CSE student at G.L. Bajaj Institute of Technology. I enjoy building practical AI systems, full‑stack apps, and security‑focused tooling. I value clear architecture, clean code, and thoughtful documentation.
+
+**What I'm focusing on right now:**
+- Production‑ready computer vision with YOLO, tracking, and analytics
+- TypeScript + Node.js backends with testing and CI
+- Strong foundations in DSA and systems thinking
+
+## Skills
+
+**Languages:** C/C++, Python, JavaScript/TypeScript, SQL
+
+**AI/ML:** PyTorch, OpenCV, YOLO, scikit‑learn, NumPy, pandas
+
+**Backend:** Node.js, Express, REST APIs, JWT/Auth, MongoDB, PostgreSQL
+
+**Frontend:** React, HTML5/CSS3, Tailwind, basic UI/UX practices
+
+**DevOps:** Git/GitHub, GitHub Actions, Docker (basics), CI/CD, Postman
+
+## Featured Projects
+
+### 🏆 [Coding Platform Analyzer](https://github.com/Aayush9808/Coding-Platform-Analyzer)
 **Automated competitive programming profile aggregator** combining stats from LeetCode, Codeforces, and CodeChef with AI-powered insights and duplicate detection.
 
 **Tech:** Python, Flask, Next.js, TypeScript, Web Scraping, AI/ML  
@@ -36,31 +66,19 @@ Lightweight JavaScript weather app with HTML/CSS/JS and APIs.
 
 ---
 
-## 📊 GitHub Stats
+### 📚 [DSA Assessment GLBITM](https://github.com/Aayush9808/DSA-Assessment-GLBITM)
+DSA Assessment Solutions for BTech 3rd Year at G.L. Bajaj Institute of Technology & Management.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush9808&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush9808&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush9808&theme=tokyonight&hide_border=true)
+**Tech:** Data Structures & Algorithms, Problem Solving  
+**Features:** Comprehensive DSA solutions • Interview preparation
 
 ---
 
-## 🛠️ Tech Stack
+## Contact
 
-**Languages:** Python, JavaScript, TypeScript, C++, Java  
-**Frontend:** React, Next.js, Tailwind CSS, HTML/CSS  
-**Backend:** Node.js, Express, Flask, FastAPI  
-**Database:** MongoDB, MySQL, PostgreSQL  
-**Tools:** Git, Docker, VS Code, Postman
-
----
-
-## 📫 Contact
-
-**LinkedIn:** [linkedin.com/in/aayush2209](https://www.linkedin.com/in/aayush2209/)  
-**Email:** ashrivastav2203@gmail.com  
-**Resume:** [View Resume](https://drive.google.com/file/d/1TfUbLmQzSFPWrvSi3Y2WF71FOgJMP2JA/view?usp=sharing)
+- **LinkedIn:** https://www.linkedin.com/in/aayush2209/
+- **Resume:** https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing
+- **Email:** ashrivastav2209@gmail.com
 
 ---
 
