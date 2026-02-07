@@ -1,298 +1,314 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aayush%20Shrivastav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%203rd%20Year%20%7C%20G.L.%20Bajaj%20Institute&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aayush%20Shrivastav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20G.L.%20Bajaj%20Institute&descSize=16&descAlignY=51" />
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FFE6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%8E%93+3rd+Year+CSE+Student+%7C+Aspiring+AI+Engineer;%F0%9F%A4%96+Building+AI+Systems+%7C+Computer+Vision+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer+%7C+Problem+Solver;%F0%9F%9A%80+Turning+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FFE6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=Aspiring+AI+Engineer+%7C+Building+Intelligent+Systems;Computer+Vision+Enthusiast+%7C+Full-Stack+Developer;Turning+Ideas+into+Production-Ready+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
 <br>
 
 ```python
-class Aayush:
+class Developer:
     def __init__(self):
-        self.username = "Aayush9808"
-        self.year = "3rd Year"
-        self.major = "Computer Science Engineering"
-        self.college = "G.L. Bajaj Institute of Technology"
-        self.current_learning = ["AI/ML", "Computer Vision", "Full-Stack Dev"]
-        self.passion = "Building innovative solutions"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
-
-me = Aayush()
-me.say_hi()
+        self.name = "Aayush Shrivastav"
+        self.role = "CSE Student | Aspiring AI Engineer"
+        self.language_spoken = ["hi_IN", "en_US"]
+        self.code = ["Python", "JavaScript", "TypeScript", "C++"]
+        self.tools = ["React", "Node.js", "PyTorch", "Docker"]
+        self.architecture = ["Microservices", "MVC", "Event-Driven"]
+        
+    def current_focus(self):
+        return {
+            "learning": ["Computer Vision", "LLMs", "System Design"],
+            "building": ["AI Systems", "Full-Stack Apps"],
+            "goal": "Creating impactful tech solutions 🎯"
+        }
 ```
 
-<br>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/aayush2209/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ashrivastav2209@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Aayush9808">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aayush2209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ashrivastav2209@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Aayush9808"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Aayush9808&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813108-28433a96-0e52-4c58-8cdd-e670c1b51f5e.gif" width="500">
-
 </div>
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<table>
-<tr>
-<td width="50%">
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="About" width="30" /> About Me
 
-### 👨‍💻 Who Am I?
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
-const aayush = {
-    role: "3rd Year CSE Student",
-    college: "G.L. Bajaj Institute",
-    interests: ["AI/ML", "Computer Vision", "Full-Stack"],
-    motto: "Learn → Build → Deploy → Repeat",
-    
-    currentlyLearning: {
-        AI: ["YOLO", "DeepSORT", "PyTorch"],
-        Backend: ["Node.js", "TypeScript", "REST APIs"],
-        Tools: ["Docker", "CI/CD", "GitHub Actions"]
-    },
-    
-    askMeAbout: ["AI", "Computer Vision", "Web Dev", "System Design"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
+🎓 **Computer Science Engineering** student at **G.L. Bajaj Institute of Technology**
 
-</td>
-<td width="50%">
+💡 Passionate about building **scalable AI systems** and **full-stack applications** that solve real-world problems
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+🔭 Currently working on **Computer Vision** projects with YOLO & DeepSORT, and building intelligent automation systems
 
-### 🎯 My Journey
+🌱 Learning **Advanced System Design**, **LLMs**, and **Distributed Systems**
 
-```diff
-+ Building AI systems that solve real problems
-+ Learning something new every single day
-+ Contributing to impactful projects
-+ Preparing for roles at top tech companies
-+ Sharing knowledge with the community
-```
+⚡ Fun fact: I believe in "code first, fix later" philosophy (with proper testing, of course! 😄)
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
+<br clear="both">
 
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" /> What Drives Me
-
-<div align="center">
-
-| 🎯 **Goal** | 💡 **Why** |
-|:---:|:---:|
-| **Build AI Systems** | Making technology accessible and impactful |
-| **Master DSA** | Strong foundations for scalable solutions |
-| **Production Code** | Code that actually runs in real world |
-| **Continuous Learning** | Tech evolves, and so should I |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Current Sprint
+### 🎯 Quick Highlights
 
 ```yaml
-2026 Roadmap:
-  Q1:
-    - "🤖 Master Computer Vision with YOLO & DeepSORT"
-    - "⚡ Build scalable microservices with Node.js"
-    - "📚 Deep dive into System Design patterns"
-  
-  Q2:
-    - "🎯 Contribute to Open Source projects"
-    - "💼 Secure internship at top tech company"
-    - "🚀 Launch 2 production-ready projects"
-  
-  Learning Priority:
-    - AI/ML: "Advanced Deep Learning & LLMs"
-    - Backend: "Distributed Systems & Scalability"
-    - DevOps: "Kubernetes, Docker, CI/CD Mastery"
+Current Focus:
+  - 🤖 Building production-grade Computer Vision systems
+  - 🏗️ Developing scalable TypeScript/Node.js backends
+  - 🧠 Strengthening DSA & System Design fundamentals
+  - 🛡️ Exploring AI-powered security & threat detection
+  - 🚀 Contributing to impactful open-source projects
+
+2026 Goals:
+  - Land an internship at a top tech company
+  - Build and deploy 3+ production-ready projects
+  - Master advanced AI/ML concepts and LLMs
+  - Contribute meaningfully to open-source community
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Technical Skills
-
-<div align="center">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" /> AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" /> Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25" /> Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Tech Stack" width="35" /> Tech Stack & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,pytorch,opencv,git,docker,github&perline=8" />
-</div>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" /> Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Coding Platform Analyzer</h3>
-<div align="center">  
-<a href="https://github.com/Aayush9808/Coding-Platform-Analyzer" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-<a href="https://coding-platform-analyzer.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-</div>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
-</p>
-<p><strong>Tech:</strong> Python • Flask • Next.js 14 • TypeScript • Tailwind CSS</p>
-<p>Automated programming analytics platform with AI-powered insights, multi-platform data aggregation, and real-time statistics dashboard.</p>
-</td>
+<td valign="top" width="33%">
 
-<td width="50%">
-<h3 align="center">SentinelAI</h3>
-<div align="center">
-<a href="https://github.com/Aayush9808/SentinelAI" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+#### 💻 Languages
+<div align="center">  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" />
-</p>
-<p><strong>Tech:</strong> Python • PyTorch • YOLO • DeepSORT • LSTM • OpenCV</p>
-<p>Real-time intelligent video surveillance with threat detection, anomaly analysis, and multi-camera support for production-grade security.</p>
+
+</td>
+<td valign="top" width="33%">
+
+#### 🤖 AI/ML
+<div align="center">  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+#### 🎨 Frontend
+<div align="center">  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-<h3 align="center">Smart Timetable Scheduler</h3>
-<div align="center">
-<a href="https://github.com/Aayush9808/smart-timetable-scheduler" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-</div>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
-</p>
-<p><strong>Tech:</strong> MongoDB • Express.js • React • Node.js (MERN)</p>
-<p>Intelligent scheduling system with automated conflict resolution, deployed for 25+ faculty, reducing manual work by 80%+.</p>
-</td>
+<td valign="top" width="33%">
 
-<td width="50%">
+#### ⚙️ Backend
+<div align="center">  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+#### 🗄️ Databases
+<div align="center">  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+#### 🛠️ DevOps & Tools
+<div align="center">  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> GitHub Statistics
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,pytorch,opencv,git,docker,github&perline=8" alt="Tech Stack" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Projects" width="35" /> Featured Projects
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush9808&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush9808&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FFDD00&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+### 🎯 Coding Platform Analyzer
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-platform-analyzer.vercel.app)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush9808/Coding-Platform-Analyzer)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+
+**Tech Stack:** Python • Flask • Next.js 14 • TypeScript • Tailwind CSS
+
+Automated programming analytics platform aggregating profiles from multiple coding platforms with AI-powered insights, intelligent duplicate detection, and real-time statistics dashboard with RESTful API design.
+
+---
+
+### 🛡️ SentinelAI
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush9808/SentinelAI)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" />
+
+**Tech Stack:** Python • PyTorch • YOLO • DeepSORT • LSTM • OpenCV
+
+Real-time intelligent video surveillance system with advanced threat detection, LSTM-based anomaly analysis, and multi-camera support capable of processing multiple video streams in real-time for production-grade security.
+
+---
+
+### 📅 Smart Timetable Scheduler
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush9808/smart-timetable-scheduler)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
+
+**Tech Stack:** MongoDB • Express.js • React • Node.js (MERN)
+
+Intelligent scheduling system with automated conflict detection and resolution algorithms. Deployed for 25+ faculty members with role-based access control, reducing manual planning work by 80%+ and saving 15+ hours weekly.
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Stats" width="35" /> GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush9808&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush9808&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FFDD00&currStreakLabel=FFFFFF" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush9808&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" />
 
+<br>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Aayush9808&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush9808&custom_title=Contribution%20Graph&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&area=true&hide_border=true" alt="Contribution Graph" />
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush9808&custom_title=Contribution%20Graph&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Education & Achievements
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Education" width="30" /> Education & Achievements
 
-🎓 **B.Tech in Computer Science Engineering** | G.L. Bajaj Institute of Technology
+<div align="center">
 
-🤖 **AI/ML Projects:** Built production-grade computer vision and threat detection systems
+🎓 **B.Tech in Computer Science Engineering**  
+📍 G.L. Bajaj Institute of Technology and Management
 
-🏗️ **Full-Stack Development:** Deployed scalable applications serving 25+ users with 80%+ efficiency gains
+</div>
 
-💡 **Focus Areas:** Computer Vision, System Design, AI/ML, Full-Stack Development, Software Architecture
+| 💫 Achievement | 📝 Description |
+|:--------------|:---------------|
+| 🤖 **AI/ML Projects** | Built production-grade computer vision and threat detection systems |
+| 🏗️ **Full-Stack Development** | Deployed scalable applications serving 25+ users with 80%+ efficiency gains |
+| 🎯 **Problem Solving** | Strong foundation in Data Structures & Algorithms |
+| 💼 **Real-World Impact** | Projects saving 15+ hours weekly for end users |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" /> Let's Connect
+### 🎯 Areas of Expertise
+
+```mermaid
+mindmap
+  root((Aayush))
+    AI/ML
+      Computer Vision
+      Deep Learning
+      YOLO & DeepSORT
+      PyTorch
+    Full Stack
+      React & Next.js
+      Node.js & Express
+      MongoDB & PostgreSQL
+    DevOps
+      Docker
+      CI/CD
+      GitHub Actions
+    Core CS
+      DSA
+      System Design
+      Software Architecture
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Connect" width="35" /> Let's Connect
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 </p>
 
-<p align="center">I'm always open to discussing <strong>new opportunities</strong>, <strong>collaborations</strong>, or <strong>interesting technical challenges</strong>. Feel free to reach out!</p>
+<p align="center">
+  💡 <strong>Open to opportunities</strong> • 🤝 <strong>Collaborations</strong> • 💬 <strong>Tech discussions</strong>
+</p>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush2209/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrivastav2209@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush9808)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing)
 
-**📄 [View My Resume](https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing)**
+<br>
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br>
 
-<div align="center">
+### 💭 *"Code with purpose. Build with passion. Deploy with pride."*
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br><br>
-
-### 💭 "Striving to write code that matters and solve problems that impact."
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
