@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Aayush Shrivastav
 
-### AI Engineer | Full-Stack Developer | Competitive Programmer
+### AI Engineer | Full-Stack Developer | Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush2209/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aayushShrivastav/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrivastav2209@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush9808)
 
 <img src="https://komarev.com/ghpvc/?username=Aayush9808&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -17,16 +17,17 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering student** at G.L. Bajaj Institute of Technology, passionate about building scalable AI systems and solving complex engineering challenges. My work spans **computer vision**, **full-stack development**, and **algorithmic problem-solving**.
+I'm a **Computer Science Engineering student** at G.L. Bajaj Institute of Technology, passionate about building scalable AI systems and solving complex engineering challenges. My work spans **computer vision**, **full-stack development**, and **intelligent automation**.
 
-I believe in writing clean, maintainable code backed by strong software engineering principles. Whether it's optimizing ML pipelines, architecting robust backends, or tackling LeetCode problems, I focus on **production-ready solutions** that deliver real impact.
+I believe in writing clean, maintainable code backed by strong software engineering principles. Whether it's optimizing ML pipelines, architecting robust backends, or building intelligent systems, I focus on **production-ready solutions** that deliver real impact.
 
 ### 🎯 Current Focus
 
 - 🔬 Building production-grade **computer vision systems** using YOLO, DeepSORT, and real-time tracking
 - 🏗️ Developing scalable **TypeScript/Node.js backends** with comprehensive testing and CI/CD
-- 🧠 Strengthening **Data Structures & Algorithms** foundations for competitive programming
-- 🛡️ Exploring **security-first development** practices and threat detection systems
+- 🧠 Strengthening **Data Structures & Algorithms** for system design and optimization
+- 🛡️ Exploring **security-first development** practices and AI-powered threat detection
+- 🤖 Working with **LLMs and AI agents** for intelligent automation
 
 ---
 
@@ -76,14 +77,15 @@ I believe in writing clean, maintainable code backed by strong software engineer
 
 ### 🎯 [Coding Platform Analyzer](https://github.com/Aayush9808/Coding-Platform-Analyzer) | [Live Demo](https://coding-platform-analyzer.vercel.app)
 
-**Automated competitive programming analytics platform** aggregating profiles from LeetCode, Codeforces, and CodeChef with AI-powered insights.
+**Automated programming analytics platform** aggregating profiles from multiple coding platforms with AI-powered insights.
 
 - 🔹 **Tech Stack:** Python, Flask, Next.js 14, TypeScript, Tailwind CSS
 - 🔹 **Key Features:**
   - Multi-platform data aggregation with intelligent duplicate detection
   - AI-driven performance analysis and recommendations
   - Real-time statistics dashboard with responsive design
-- 🔹 **Impact:** Streamlined profile analysis for competitive programmers with comprehensive insights
+  - RESTful API design with comprehensive error handling
+- 🔹 **Impact:** Streamlined profile analysis with automated data processing and analytics
 
 ---
 
@@ -131,11 +133,11 @@ I believe in writing clean, maintainable code backed by strong software engineer
 
 🎓 **B.Tech in Computer Science Engineering** | G.L. Bajaj Institute of Technology
 
-🏅 **Competitive Programming:** Active on LeetCode, Codeforces, and CodeChef
+🤖 **AI/ML Projects:** Built production-grade computer vision and threat detection systems
 
-🏆 **Problem Solving:** 500+ problems solved across multiple platforms
+🏗️ **Full-Stack Development:** Deployed scalable applications serving 25+ users with 80%+ efficiency gains
 
-💡 **Focus Areas:** Algorithms, System Design, AI/ML, Full-Stack Development
+💡 **Focus Areas:** Computer Vision, System Design, AI/ML, Full-Stack Development, Software Architecture
 
 ---
 
@@ -147,7 +149,7 @@ I'm always open to discussing **new opportunities**, **collaborations**, or **in
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush2209/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrivastav2209@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aayushShrivastav/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush9808)
 
 **📄 [View My Resume](https://drive.google.com/file/d/1TfUbLmOzSFPWrvSi3Y2WF71FOqJMP2JA/view?usp=sharing)**
 
