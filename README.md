@@ -1,8 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aayush%20Shrivastav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aayush%20Shrivastav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%203rd%20Year%20%7C%20G.L.%20Bajaj%20Institute&descSize=18&descAlignY=55" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;Building+Production+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FFE6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%8E%93+3rd+Year+CSE+Student+%7C+Aspiring+AI+Engineer;%F0%9F%A4%96+Building+AI+Systems+%7C+Computer+Vision+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer+%7C+Problem+Solver;%F0%9F%9A%80+Turning+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
+</h2>
+
+<br>
+
+```python
+class Aayush:
+    def __init__(self):
+        self.username = "Aayush9808"
+        self.year = "3rd Year"
+        self.major = "Computer Science Engineering"
+        self.college = "G.L. Bajaj Institute of Technology"
+        self.current_learning = ["AI/ML", "Computer Vision", "Full-Stack Dev"]
+        self.passion = "Building innovative solutions"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+
+me = Aayush()
+me.say_hi()
+```
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush2209/">
@@ -21,33 +44,97 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aayush9808&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813108-28433a96-0e52-4c58-8cdd-e670c1b51f5e.gif" width="500">
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="50%">
 
-I'm a **Computer Science Engineering student** at G.L. Bajaj Institute of Technology, passionate about building scalable AI systems and solving complex engineering challenges. My work spans **computer vision**, **full-stack development**, and **intelligent automation**.
+### 👨‍💻 Who Am I?
 
-I believe in writing clean, maintainable code backed by strong software engineering principles. Whether it's optimizing ML pipelines, architecting robust backends, or building intelligent systems, I focus on **production-ready solutions** that deliver real impact.
+```javascript
+const aayush = {
+    role: "3rd Year CSE Student",
+    college: "G.L. Bajaj Institute",
+    interests: ["AI/ML", "Computer Vision", "Full-Stack"],
+    motto: "Learn → Build → Deploy → Repeat",
+    
+    currentlyLearning: {
+        AI: ["YOLO", "DeepSORT", "PyTorch"],
+        Backend: ["Node.js", "TypeScript", "REST APIs"],
+        Tools: ["Docker", "CI/CD", "GitHub Actions"]
+    },
+    
+    askMeAbout: ["AI", "Computer Vision", "Web Dev", "System Design"],
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+```
 
-<br clear="both">
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+### 🎯 My Journey
+
+```diff
++ Building AI systems that solve real problems
++ Learning something new every single day
++ Contributing to impactful projects
++ Preparing for roles at top tech companies
++ Sharing knowledge with the community
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Current Focus
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" /> What Drives Me
 
-- 🔬 Building production-grade **computer vision systems** using YOLO, DeepSORT, and real-time tracking
-- 🏗️ Developing scalable **TypeScript/Node.js backends** with comprehensive testing and CI/CD
-- 🧠 Strengthening **Data Structures & Algorithms** for system design and optimization
-- 🛡️ Exploring **security-first development** practices and AI-powered threat detection
-- 🤖 Working with **LLMs and AI agents** for intelligent automation
+<div align="center">
+
+| 🎯 **Goal** | 💡 **Why** |
+|:---:|:---:|
+| **Build AI Systems** | Making technology accessible and impactful |
+| **Master DSA** | Strong foundations for scalable solutions |
+| **Production Code** | Code that actually runs in real world |
+| **Continuous Learning** | Tech evolves, and so should I |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Current Sprint
+
+```yaml
+2026 Roadmap:
+  Q1:
+    - "🤖 Master Computer Vision with YOLO & DeepSORT"
+    - "⚡ Build scalable microservices with Node.js"
+    - "📚 Deep dive into System Design patterns"
+  
+  Q2:
+    - "🎯 Contribute to Open Source projects"
+    - "💼 Secure internship at top tech company"
+    - "🚀 Launch 2 production-ready projects"
+  
+  Learning Priority:
+    - AI/ML: "Advanced Deep Learning & LLMs"
+    - Backend: "Distributed Systems & Scalability"
+    - DevOps: "Kubernetes, Docker, CI/CD Mastery"
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -88,6 +175,12 @@ I believe in writing clean, maintainable code backed by strong software engineer
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,pytorch,opencv,git,docker,github&perline=8" />
+</div>
 
 </div>
 
