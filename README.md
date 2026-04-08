@@ -14,7 +14,7 @@ class Developer:
         self.name = "Aayush Shrivastav"
         self.role = "CSE Student | Aspiring AI Engineer"
         self.language_spoken = ["hi_IN", "en_US"]
-        self.code = ["Python", "JavaScript", "TypeScript", "C++"]
+        self.code = ["Python", "JavaScript", "TypeScript", "C++", "C"]
         self.tools = ["React", "Node.js", "PyTorch", "Docker"]
         self.architecture = ["Microservices", "MVC", "Event-Driven"]
         
