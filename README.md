@@ -233,7 +233,19 @@ Intelligent scheduling system with automated conflict detection and resolution a
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush9808&custom_title=Contribution%20Graph&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush9808/Aayush9808/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush9808/Aayush9808/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Aayush9808/Aayush9808/output/github-snake.svg" width="100%" />
+</picture>
+
+<br>
+
+### Contribution Map
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush9808&custom_title=Contribution%20Map&bg_color=0D1117&color=39D353&line=26A641&point=9BE9A8&area_color=0E4429&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
