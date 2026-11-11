@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush9808/Aayush9808/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush9808/Aayush9808/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Aayush9808/Aayush9808/output/github-snake.svg" width="100%" />
-</picture>
 
 <div align="center">
 
@@ -50,10 +45,6 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush9808&custom_title=Contribution%20Map&bg_color=0d1117&color=8b5cf6&line=22c55e&point=f8fafc&area=true&area_color=0f766e&hide_border=true" alt="Contribution map" width="100%" />
-</div>
 
 ## Selected Work
 
